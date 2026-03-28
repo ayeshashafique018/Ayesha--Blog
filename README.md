@@ -54,49 +54,6 @@ Ayesha's Blog/
 
 <hr>
 
-<h2>⚙️ Installation & Setup</h2>
-<ol>
-  <li>Clone the repository:<br><code>git clone https://github.com/your-username/your-repo-name.git</code></li>
-  <li>Navigate into the project:<br><code>cd your-repo-name</code></li>
-  <li>Install dependencies:<br><code>npm install</code></li>
-  <li>Run the development server:<br><code>npm run dev</code></li>
-</ol>
-<p>Open <code>http://localhost:5173</code> in your browser.</p>
-
-<hr>
-
-<h2>🏗️ Build for Production</h2>
-<pre>npm run build</pre>
-<p>The production-ready files will be generated in the <code>dist/</code> folder.</p>
-
-<hr>
-
-<h2>🌐 Deployment</h2>
-<h3>Using Vercel</h3>
-<ol>
-  <li>Go to <a href="https://vercel.com" target="_blank">Vercel</a></li>
-  <li>Import your GitHub repository</li>
-  <li>Click <strong>Deploy</strong></li>
-</ol>
-
-<h3>Using Netlify</h3>
-<ol>
-  <li>Go to <a href="https://www.netlify.com" target="_blank">Netlify</a></li>
-  <li>Add new site → Import from Git</li>
-  <li>Build command:<br><code>npm run build</code></li>
-  <li>Publish directory:<br><code>dist</code></li>
-</ol>
-
-<hr>
-
-<h2>🔄 Git Workflow</h2>
-<pre>
-git add .
-git commit -m "Your message here"
-git push origin main
-</pre>
-
-<hr>
 
 <h2>🧠 Future Improvements</h2>
 <ul>
